@@ -1,0 +1,36 @@
+.contenedor-gatos{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    box-shadow: 0 3px 10px 0 rgba(161, 161, 161, 0.7);
+}
+
+
+.imagen-gatitos{
+    height: 100%;
+    width: auto;
+}
+
+.contenedor-gatos-descripcion{
+    text-align: center;
+    padding: 40px;
+    font-weight: 400;
+    line-height: 1.5rem;
+
+}
+.nombre-gato{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+
+}
+
+.descripcion-gato{
+    font-size: 1.1rem;
+    text-align: justify;
+
+}
