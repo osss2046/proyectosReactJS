@@ -32,7 +32,7 @@ function App() {
          />
                  <Gatitos
           nombre="Yupi"
-          tipo="gato siames"
+          tipo="gato tres colores"
           descripcion={descripcion3}
           imagen="yupi"
          />
